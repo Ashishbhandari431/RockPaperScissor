@@ -26,3 +26,7 @@ img{
     font-weight: bold;
     margin-top: 20px;
 }
+.name{
+    text-align: end;
+    color: black;
+}
